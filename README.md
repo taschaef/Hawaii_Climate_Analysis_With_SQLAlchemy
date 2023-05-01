@@ -12,6 +12,9 @@ In this assignment we were asked to: use Python and SQLAlchemy to do a basic cli
 
 5. Perform a precipitation analysis and then a station analysis by completing the steps in the following two subsections.
 
+My app is called weather_app.py and can be found in the Surfs_Up folder in this repo. 
+In that same folder you will find the Jupyter Notebook containing my code for the precipitation and temperature analysis. Additionally, there is a Resources folder in Surfs_Up that contains the sqlite database, and the CSV's used in this analysis. 
+
 # Section 1 - Precipitation Analysis
 We were asked to query the last 12 months of data from the table and create a bar chart showcasing that data. 
 ![precip_bar](https://user-images.githubusercontent.com/124079708/235550355-77a61428-b9b2-4edb-9580-1c68addccb4e.png)
@@ -25,4 +28,4 @@ We were asked to find the most active station, then collect temperature data fro
 We were asked to create a climate app that allowed users to interface with some of our quereies from the Jupyter Notebook in a Flask API. 
 My app is called weather_app.py and can be found in the Surfs_Up folder in this repo. 
 
-In that same folder you will find the Jupyter Notebook containing my code for the precipitation and temperature analysis. Additionally, there is a Resources folder in Surfs_Up that contains the sqlite database, and the CSV's used in this analysis. 
+
