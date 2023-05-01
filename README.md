@@ -1,1 +1,2 @@
-# sqlalchemy-challenge
+## SQLAlchemy Challenge - Weather in Hawaii
+
