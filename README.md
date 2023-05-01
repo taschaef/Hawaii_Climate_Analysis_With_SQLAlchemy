@@ -23,3 +23,6 @@ We were asked to find the most active station, then collect temperature data fro
 
 # Section 3 - Climate App
 We were asked to create a climate app that allowed users to interface with some of our quereies from the Jupyter Notebook in a Flask API. 
+My app is called weather_app.py and can be found in the Surfs_Up folder in this repo. 
+
+In that same folder you will find the Jupyter Notebook containing my code for the precipitation and temperature analysis. Additionally, there is a Resources folder in Surfs_Up that contains the sqlite database, and the CSV's used in this analysis. 
